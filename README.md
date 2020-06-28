@@ -25,11 +25,12 @@ The [OpenVX 1.3 implementation](https://github.com/KhronosGroup/OpenVX-sample-im
 
 ### Build OpenVX 1.3 on Raspberry Pi
 
-* Git Clone project with the recursive flag to get submodules. ( The API Documents and Conformance Test Suite are set as submodules in the sample implementation) 
+* Git Clone project with the recursive flag to get submodules.
 
 ````
 git clone --recursive https://github.com/KhronosGroup/OpenVX-sample-impl.git
 ````
+**Note:** The API Documents and Conformance Test Suite are set as submodules in the sample implementation project 
 
 * Use Build.py script to build and install OpenVX 1.3
 
