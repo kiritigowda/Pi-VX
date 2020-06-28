@@ -11,7 +11,11 @@ Application developers may always freely use Khronos Standards when they are ava
 
 The Khronos Group and the Raspberry Pi Foundation have come together to implement an open-source implementation of <a href="https://www.khronos.org/registry/OpenVX/specs/1.3/html/OpenVX_Specification_1_3.html" target="_blank">OpenVX™ 1.3</a>, which passes the conformance on Raspberry Pi. The open-source implementation passes the Vision, Enhanced Vision, & Neural Net conformance profiles specified in OpenVX 1.3 on Raspberry Pi.
 
+<p align="center"><img width="60%" src="https://www.khronos.org/assets/uploads/apis/2019-openvx-lp-graph.png" /></p> 
+
 OpenVX enables a performance and power-optimized computer vision processing, especially important in embedded and real-time use cases such as face, body, and gesture tracking, smart video surveillance, advanced driver assistance systems (ADAS), object and scene reconstruction, augmented reality, visual inspection, robotics and more. The developers can take advantage of using this robust API in their application and know that the application is portable across all the <a href="https://www.khronos.org/conformance/adopters/conformant-products/openvx" target="_blank">conformant hardware</a>.
+
+<p align="center"><img width="60%" src="https://www.raspberrypi.org/homepage-9df4b/static/raspberry-pi-4-labelled@2x-c1a040c7511610e7274e388432a458c4.png" /></p> 
 
 In this project, we will go over how to build and install open-source OpenVX 1.3 library on [Raspberry Pi 4 Model B Rev 1.2](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/). We will run the conformance for the Vision, Enhanced Vision, & Neural Net conformance profiles and create a simple computer vision application to get started with OpenVX on Raspberry Pi.
 
@@ -51,3 +55,9 @@ LD_LIBRARY_PATH=./lib ./bin/vx_test_conformance
 Use the open-source [samples](https://github.com/KhronosGroup/openvx-samples) on GitHub to test the installation.
 
 <p align="center"><img width="60%" src="https://github.com/KhronosGroup/openvx-samples/blob/master/images/vx-pop-app.gif?raw=true" /></p> 
+
+#### Acknowledgement
+
+* Raspberry Pi is a trademark of the Raspberry Pi Foundation
+* Images used in this document are used for educational purpose
+* OpenVX is a trademark of the Khronos Group
