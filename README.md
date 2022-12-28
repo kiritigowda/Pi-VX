@@ -1,6 +1,6 @@
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-<p align="center"> &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img width="10%" src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" /> &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img width="8%" src="https://svgsilh.com/svg/156116.svg"/> &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img width="40%" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/OpenVX_logo.svg/1920px-OpenVX_logo.svg.png"/> </p> 
+<p align="center"> &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img width="10%" src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" /> &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img width="8%" src="https://svgsilh.com/svg/156116.svg"/> &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img width="40%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/OpenVX_logo.svg/1024px-OpenVX_logo.svg.png?20210508034815"/> </p> 
 
 # Pi-VX
 **OpenVX for Raspberry Pi**
@@ -15,7 +15,7 @@ The Khronos Group and the Raspberry Pi Foundation have come together to implemen
 
 OpenVX enables a performance and power-optimized computer vision processing, especially important in embedded and real-time use cases such as face, body, and gesture tracking, smart video surveillance, advanced driver assistance systems (ADAS), object and scene reconstruction, augmented reality, visual inspection, robotics and more. The developers can take advantage of using this robust API in their application and know that the application is portable across all the <a href="https://www.khronos.org/conformance/adopters/conformant-products/openvx" target="_blank">conformant hardware</a>.
 
-<p align="center"><img width="60%" src="https://www.raspberrypi.org/homepage-9df4b/static/raspberry-pi-4-labelled@2x-c1a040c7511610e7274e388432a458c4.png" /></p> 
+<p align="center"><img width="60%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Raspberry_Pi_4_Model_B_-_Side.jpg/440px-Raspberry_Pi_4_Model_B_-_Side.jpg" /></p> 
 
 In this project, we will go over how to build and install open-source OpenVX 1.3 library on [Raspberry Pi 4 Model B Rev 1.2](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/). We will run the conformance for the Vision, Enhanced Vision, & Neural Net conformance profiles and create a simple computer vision application to get started with OpenVX on Raspberry Pi.
 
